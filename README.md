@@ -45,5 +45,6 @@ Here are the slides to help you if you need them: [Slides!](https://docs.google.
 
 ### A few tips:
 
+* If you don't know where to start, first get the "returnString" variable to appear on the screen when the button is clicked.
 * Work on one input at a time. Keep the "hard coded" values in place until you are ready to work on the input that corresponds with that variable.
 * Check the slides for help only after you've given a good effort on any given part. Everything you need will be in the slides but you are also always welcome to raise your hand and ask questions.
