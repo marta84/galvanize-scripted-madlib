@@ -9,9 +9,7 @@ $(document).ready(function() {
         var lessonLearned = "jQuery"
         
         function modifierFunc(lines) {
-            if(true){
-                return "a TON";
-            }
+            /* Your code here */
         }
     
         var returnString =      "I had a great time at Galvanize with Parker today but his look needs"
