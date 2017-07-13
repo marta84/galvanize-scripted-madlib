@@ -46,6 +46,7 @@ Here are the slides to help you if you need them: [Slides!](https://docs.google.
 ### A tip if you don't know where to start:
 
 Follow the order of the objectives from the slides:
+
     1 Put returnString on the page
     2 Store values from the page in variables
     3 Define a function named modifierFunc
