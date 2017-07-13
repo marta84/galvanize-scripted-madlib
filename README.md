@@ -43,8 +43,12 @@ If everything is done correctly, after you click the button you will have a cohe
 Here are the slides to help you if you need them: [Slides!](https://docs.google.com/presentation/d/1dIux1DaFQK-i_3cN3PHu5Azv6j6FfCnBCBHFKx8V684/edit?usp=sharing)
 
 
-### A few tips:
+### A tip if you don't know where to start:
 
-* If you don't know where to start, first get the "returnString" variable to appear on the screen when the button is clicked.
-* Work on one input at a time. Keep the "hard coded" values in place until you are ready to work on the input that corresponds with that variable.
-* Check the slides for help only after you've given a good effort on any given part. Everything you need will be in the slides but you are also always welcome to raise your hand and ask questions.
+Follow the order of the objectives from the slides:
+    1 Put returnString on the page
+    2 Store values from the page in variables
+    3 Define a function named modifierFunc
+    4 Put a correct if/else statement in function
+    5 Call modifierFunc with the correct arguments and save its value in linesOfCodeModifier
+
